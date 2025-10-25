@@ -1,6 +1,3 @@
-use std::fmt::format;
-use std::vec;
-
 fn main() {
     let b = Book::new(String::from("123"), String::from("me"), 6);
 
